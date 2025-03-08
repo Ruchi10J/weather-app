@@ -1,4 +1,5 @@
 This app fetches real-time weather data from the OpenWeatherMap API and provides:
+
 🌡️ Temperature
 ☁️ Weather Condition
 💧 Humidity
